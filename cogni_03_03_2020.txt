@@ -1,0 +1,120 @@
+1. TIME SERIES
+2. PREDICTION
+
+SERIES & Propagation
+
+4:05 reassemble!
+
+per 1000 lines of data
+0.5% <- allowed to lose 
+<5 -> don't worry about them drop
+> 5 -> find a way adjust or drop
+How to adjust?
+- Mode
+- Median
+- Mean
+- Custom Value
+- Custom Function/regular expression
+
+
+Windows -> LINUX
+
+Installed both OS,
+
+VIRTUALIZATION -> Linux inside Windows
+LINUX programs, software think
+that they are running on linux 
+OWN -> RENTING -. CLOUD Computing
+PER HOUR - Infrastructure as a service
+network, 
+AMI - Azure Image - Google VHDs
+
+Infrastructure as a Service
+Platform aaS
+Software aaS
+
+Microsoft Virtual Academy->
+
+
+JUMP HEIGHT-> LOW , HIGHT
+
+MASS increasing -> Jump dec
+Height increasing -> jump inc 
+
+Low or HIGH = mass + height 
+
+mass > 30 -> jump low
+mass <=30 -> jump high
+Height > 3 -> jump high
+<3 -> jump low 
+BOUNDARY OF DATA 
+CREATED a formula!
+y =1 for x>0, y =0, x<=0,
+
+
+
+
+
+
+dropped a column age -> missing value
+after deploying -> data that it gets
+Age -> has info
+BUT MY ML MODEL DOESN"T KNOW WHAT 
+age is?
+Web Developer -> making AGE
+Store in a local storage->
+remove Age and then pass
+y = weights*x + bias-> Y is called MODEL 
+How to create this Y is ML 
+x  -> ML
+CONFIGURE
+
+KNOW-> DOCKER -> DEV/TEST/Small use
+Kubernetes-> Production/large use
+
+
+
+
+Windows, Python, Tensorflow, 
+Platform as a Service
+
+
+REDUNDANCY -> LOCAL
+BUY, MANTAIN, WORRY
+SOUTH, CENTRAL -> Regional/ Zonal
+
+COUNTRIES -> Geo 
+8 GB ram, 2 GHz CPU
+-
+Microsoft, Google, Amazon
+3 GB ram, 1 GHz CPU 
+
+BIGDATA -> TRAIN, TEST, DEPLOY
+
+SMALL DATA != MACHINE LEARNING
+SINGLE MACHINE!= MACHINE LEARNING
+ALWAYS A CLUSTER
+
+API-> cloud, flask
+(internet)
+
+CONTAINERs->
+DOCKERS
+KUBERNETES-> SERVICE that manages
+computer clusters
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+linear variable -> max 1
+quadric -> 2
+ y = m1 * 5 Crore + m2 *....
