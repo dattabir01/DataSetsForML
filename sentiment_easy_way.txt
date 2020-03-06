@@ -1,0 +1,22 @@
+Dictionary
+I am a good boy
+I am good today/......
+
+
+Word Frequency (PRE SORT)
+I	34
+am      32
+a  	11
+good	32
+boy	43
+today   42
+
+Word Frequency RANK (POST SORT)
+boy	43	1
+today   42	2
+I  	34	3
+am	32	4
+good	32	5
+a  	11	6
+
+word_index = {0:<PAD>,1:'<start>',..,4:'boy',5:'today'....'10':'a'}
